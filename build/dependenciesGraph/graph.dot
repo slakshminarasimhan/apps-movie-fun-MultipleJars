@@ -1,0 +1,4 @@
+digraph dependencies {
+  "movie-fun-app" -> "movies"
+  "movie-fun-app" -> "albums"
+}
